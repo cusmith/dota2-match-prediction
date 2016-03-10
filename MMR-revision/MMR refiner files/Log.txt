@@ -10,6 +10,7 @@ I have split the results into low medium and high mmr groups. I am now going to 
 I have used a weighted average method to split them. KDA is the highest value, worth 2 points, everything else is worth 1. Each player is given a score
 based on how far they are from the mean of their respective group. 
 
+March 9th 2015
 Ex= Consider a player who is in the low mmr group. They have a kda of 2.33, A Gmp of 444 and a xpm of 400 and hero damage of 9100. 
 Their score would equal (2.33)*2/(2.48)+(444)/413+400/346+9100/9080= 5.112. Since the mean value of x should be 5, this player is slightly above average for that elo block.
 With more players, this process will become more refined. 
@@ -22,3 +23,6 @@ elosplitter.py is the script I have been using to split the players based on elo
 filecombiner.py is a file combiner to consolodate csv files. 
 The rest of the csv files are middle level files used to create rmmr.csv, the revised mmr files. 
 Log is a description of my efforts. 
+
+Todo: Make slides, Get more player files to improve numbers. 
+
