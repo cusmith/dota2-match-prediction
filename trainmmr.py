@@ -13,7 +13,6 @@ def main():
 
 		for row in csvreader:
 			X_load.append(row[:6])
-			# X_load.append(row[:-1])
 			y_load.append(row[-1])
 
 	X = np.array(X_load, dtype='float32')
