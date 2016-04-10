@@ -1,7 +1,7 @@
 Seng474 - Dota2 Match Prediction Project
 Curtis Smith, Shuangyu Hu, Deion Yu, David Bayly
 
-This .zip contains the codebase and datasets that we used for this project.  If you have any questions about the contents included, feel free to email me at curtis.smith8@gmail.com.  I have left my own Dota2 WebAPI API_KEY included in the code here, which is probably bad form, but there is nothing malicious that can be done with it so I have included it for convenience.
+This .zip contains the codebase and datasets that we used for this project.  If you have any questions about the contents included, feel free to email me at curtis.smith8@gmail.com.  I have left my own Dota2 WebAPI API_KEY included in the code here, but there is nothing malicious that can be done with it so  ¯\_(ツ)_/¯
 
 Files included:
 
